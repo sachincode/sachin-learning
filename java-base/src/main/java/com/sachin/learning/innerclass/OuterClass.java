@@ -2,7 +2,7 @@ package com.sachin.learning.innerclass;
 
 /**
  * 成员内部类
- *
+ * http://android.blog.51cto.com/268543/384809
  * @author shicheng.zhang
  * @since 17-4-20 下午8:58
  */
